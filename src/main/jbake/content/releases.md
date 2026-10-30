@@ -8,7 +8,7 @@ This is a list of all our releases, available from our [downloads](/downloads.cg
 
 ## October 2026
 
-* OSGi Feature Maven Plugin 1.9.8 (30th)
+* OSGi Feature Maven Plugin 1.9.8, Feature Model Analyser 2.0.22 (30th)
 * Auth Core 2.1.2 (22nd)
 * Resource Resolver 1.12.20 (20th)
 * Resource Resolver 2.0.8 (19th)
